@@ -1,0 +1,21 @@
+.oddnumber {
+    background-color: hsl(0, 66%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(71, 114, 255);
+    font-size: 36px;
+}
+
+.third {
+    background-color: hsl(0, 66%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(174, 255, 43);
+    font-size: 24px;
+    font-weight: 700;
+}
